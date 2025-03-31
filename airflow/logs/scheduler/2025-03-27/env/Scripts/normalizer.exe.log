@@ -1,0 +1,54 @@
+[2025-03-27T08:11:35.759+0000] {processor.py:186} INFO - Started process (PID=652) to work on /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T08:11:35.761+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/normalizer.exe for tasks to queue
+[2025-03-27T08:11:35.767+0000] {logging_mixin.py:190} INFO - [2025-03-27T08:11:35.766+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T08:11:35.798+0000] {logging_mixin.py:190} INFO - [2025-03-27T08:11:35.797+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/normalizer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T08:11:35.800+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T08:11:35.868+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/normalizer.exe took 0.124 seconds
+[2025-03-27T17:13:30.956+0000] {processor.py:186} INFO - Started process (PID=694) to work on /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:13:30.958+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/normalizer.exe for tasks to queue
+[2025-03-27T17:13:30.964+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:13:30.963+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:13:30.982+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:13:30.981+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/normalizer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:13:30.983+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:13:31.015+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/normalizer.exe took 0.073 seconds
+[2025-03-27T17:18:21.693+0000] {processor.py:186} INFO - Started process (PID=724) to work on /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:18:21.695+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/normalizer.exe for tasks to queue
+[2025-03-27T17:18:21.700+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:21.699+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:18:21.714+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:21.714+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/normalizer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:18:21.722+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:18:21.751+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/normalizer.exe took 0.071 seconds
+[2025-03-27T17:33:29.508+0000] {processor.py:186} INFO - Started process (PID=758) to work on /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:33:29.512+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/normalizer.exe for tasks to queue
+[2025-03-27T17:33:29.516+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:29.516+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:33:29.544+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:29.544+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/normalizer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:33:29.546+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:33:29.607+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/normalizer.exe took 0.115 seconds
+[2025-03-27T17:34:00.710+0000] {processor.py:186} INFO - Started process (PID=782) to work on /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:34:00.712+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/normalizer.exe for tasks to queue
+[2025-03-27T17:34:00.716+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:00.715+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:34:00.751+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:00.751+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/normalizer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:34:00.754+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:34:00.813+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/normalizer.exe took 0.127 seconds
+[2025-03-27T17:34:33.014+0000] {processor.py:186} INFO - Started process (PID=806) to work on /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:34:33.015+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/normalizer.exe for tasks to queue
+[2025-03-27T17:34:33.017+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:33.016+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:34:33.032+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:33.032+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/normalizer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:34:33.033+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:34:33.055+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/normalizer.exe took 0.049 seconds
+[2025-03-27T17:38:53.419+0000] {processor.py:186} INFO - Started process (PID=824) to work on /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:38:53.421+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/normalizer.exe for tasks to queue
+[2025-03-27T17:38:53.426+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:53.423+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:38:53.457+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:53.457+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/normalizer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:38:53.459+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:38:53.492+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/normalizer.exe took 0.084 seconds
+[2025-03-27T17:39:32.734+0000] {processor.py:186} INFO - Started process (PID=859) to work on /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:39:32.737+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/normalizer.exe for tasks to queue
+[2025-03-27T17:39:32.745+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:39:32.744+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:39:32.774+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:39:32.773+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/normalizer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:39:32.775+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:39:32.811+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/normalizer.exe took 0.093 seconds
+[2025-03-27T17:49:28.879+0000] {processor.py:186} INFO - Started process (PID=877) to work on /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:49:28.881+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/normalizer.exe for tasks to queue
+[2025-03-27T17:49:28.885+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:49:28.884+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:49:28.904+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:49:28.904+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/normalizer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:49:28.905+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/normalizer.exe
+[2025-03-27T17:49:28.936+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/normalizer.exe took 0.065 seconds

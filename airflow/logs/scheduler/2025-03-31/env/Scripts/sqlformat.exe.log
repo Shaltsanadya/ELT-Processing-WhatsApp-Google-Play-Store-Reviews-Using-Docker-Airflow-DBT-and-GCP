@@ -1,0 +1,528 @@
+[2025-03-31T07:27:31.496+0000] {processor.py:186} INFO - Started process (PID=7699) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T07:27:31.498+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T07:27:31.501+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:27:31.501+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T07:27:31.518+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:27:31.518+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T07:27:31.520+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T07:27:31.546+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.058 seconds
+[2025-03-31T07:28:03.280+0000] {processor.py:186} INFO - Started process (PID=7723) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T07:28:03.282+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T07:28:03.286+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:28:03.286+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T07:28:03.304+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:28:03.304+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T07:28:03.306+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T07:28:03.340+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.080 seconds
+[2025-03-31T08:42:40.884+0000] {processor.py:186} INFO - Started process (PID=8051) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:42:40.888+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:42:40.894+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:42:40.893+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:42:40.918+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:42:40.917+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:42:40.920+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:42:40.961+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.090 seconds
+[2025-03-31T08:43:12.072+0000] {processor.py:186} INFO - Started process (PID=8075) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:43:12.075+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:43:12.080+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:43:12.079+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:43:12.098+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:43:12.097+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:43:12.100+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:43:12.149+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.090 seconds
+[2025-03-31T08:43:47.991+0000] {processor.py:186} INFO - Started process (PID=8091) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:43:47.993+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:43:47.999+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:43:47.998+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:43:48.020+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:43:48.019+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:43:48.022+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:43:48.061+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.085 seconds
+[2025-03-31T08:44:18.607+0000] {processor.py:186} INFO - Started process (PID=8115) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:44:18.609+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:44:18.615+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:44:18.614+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:44:18.634+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:44:18.634+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:44:18.637+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:44:18.683+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.090 seconds
+[2025-03-31T08:47:27.702+0000] {processor.py:186} INFO - Started process (PID=8153) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:47:27.704+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:47:27.709+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:47:27.708+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:47:27.728+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:47:27.727+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:47:27.729+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:47:27.779+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.091 seconds
+[2025-03-31T08:48:00.057+0000] {processor.py:186} INFO - Started process (PID=8177) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:48:00.060+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:48:00.068+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:00.067+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:48:00.091+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:00.091+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:48:00.093+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:48:00.133+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.106 seconds
+[2025-03-31T08:48:52.126+0000] {processor.py:186} INFO - Started process (PID=8207) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:48:52.127+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:48:52.132+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:52.131+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:48:52.146+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:52.145+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:48:52.147+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:48:52.179+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.062 seconds
+[2025-03-31T08:49:24.621+0000] {processor.py:186} INFO - Started process (PID=8231) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:49:24.623+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:49:24.628+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:49:24.627+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:49:24.647+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:49:24.646+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:49:24.648+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:49:24.684+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.075 seconds
+[2025-03-31T08:52:27.622+0000] {processor.py:186} INFO - Started process (PID=8265) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:52:27.623+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:52:27.627+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:52:27.627+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:52:27.644+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:52:27.643+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:52:27.645+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:52:27.674+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.066 seconds
+[2025-03-31T08:53:02.556+0000] {processor.py:186} INFO - Started process (PID=8289) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:53:02.559+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:53:02.564+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:02.563+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:53:02.584+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:02.584+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:53:02.586+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:53:02.631+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.096 seconds
+[2025-03-31T08:53:57.035+0000] {processor.py:186} INFO - Started process (PID=8319) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:53:57.037+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:53:57.041+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:57.040+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:53:57.055+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:57.055+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:53:57.056+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:53:57.088+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.064 seconds
+[2025-03-31T08:54:29.016+0000] {processor.py:186} INFO - Started process (PID=8343) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:54:29.018+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:54:29.022+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:54:29.021+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:54:29.035+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:54:29.035+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:54:29.037+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:54:29.071+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.066 seconds
+[2025-03-31T08:57:25.650+0000] {processor.py:186} INFO - Started process (PID=8372) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:57:25.652+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:57:25.656+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:25.655+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:57:25.670+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:25.669+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:57:25.671+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:57:25.699+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.059 seconds
+[2025-03-31T08:57:56.768+0000] {processor.py:186} INFO - Started process (PID=8396) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:57:56.769+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:57:56.775+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:56.774+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:57:56.787+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:56.787+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:57:56.788+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:57:56.831+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.071 seconds
+[2025-03-31T08:58:53.348+0000] {processor.py:186} INFO - Started process (PID=8431) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:58:53.351+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:58:53.355+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:58:53.355+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:58:53.374+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:58:53.373+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:58:53.375+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:58:53.404+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.071 seconds
+[2025-03-31T08:59:24.212+0000] {processor.py:186} INFO - Started process (PID=8455) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:59:24.214+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T08:59:24.219+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:59:24.218+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:59:24.237+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:59:24.237+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T08:59:24.239+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T08:59:24.272+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.074 seconds
+[2025-03-31T09:02:34.680+0000] {processor.py:186} INFO - Started process (PID=8489) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:02:34.682+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:02:34.687+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:02:34.686+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:02:34.700+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:02:34.700+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:02:34.702+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:02:34.731+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.063 seconds
+[2025-03-31T09:03:06.068+0000] {processor.py:186} INFO - Started process (PID=8513) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:03:06.070+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:03:06.075+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:03:06.074+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:03:06.093+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:03:06.092+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:03:06.094+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:03:06.133+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.079 seconds
+[2025-03-31T09:04:04.554+0000] {processor.py:186} INFO - Started process (PID=8542) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:04:04.556+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:04:04.560+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:04:04.559+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:04:04.574+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:04:04.574+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:04:04.575+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:04:04.606+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.064 seconds
+[2025-03-31T09:04:36.592+0000] {processor.py:186} INFO - Started process (PID=8566) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:04:36.593+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:04:36.598+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:04:36.597+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:04:36.612+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:04:36.612+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:04:36.614+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:04:36.643+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.063 seconds
+[2025-03-31T09:07:32.310+0000] {processor.py:186} INFO - Started process (PID=8591) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:07:32.312+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:07:32.327+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:07:32.326+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:07:32.352+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:07:32.351+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:07:32.353+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:07:32.408+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.132 seconds
+[2025-03-31T09:08:04.890+0000] {processor.py:186} INFO - Started process (PID=8615) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:08:04.893+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:08:04.900+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:08:04.899+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:08:04.917+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:08:04.917+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:08:04.919+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:08:04.952+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.073 seconds
+[2025-03-31T09:09:01.885+0000] {processor.py:186} INFO - Started process (PID=8643) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:09:01.886+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:09:01.891+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:01.891+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:09:01.906+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:01.906+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:09:01.908+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:09:01.942+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.066 seconds
+[2025-03-31T09:09:32.821+0000] {processor.py:186} INFO - Started process (PID=8667) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:09:32.823+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:09:32.829+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:32.828+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:09:32.846+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:32.845+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:09:32.847+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:09:32.883+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.077 seconds
+[2025-03-31T09:12:28.126+0000] {processor.py:186} INFO - Started process (PID=8696) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:12:28.128+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:12:28.132+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:28.131+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:12:28.148+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:28.148+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:12:28.150+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:12:28.181+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.065 seconds
+[2025-03-31T09:12:59.133+0000] {processor.py:186} INFO - Started process (PID=8720) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:12:59.135+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:12:59.140+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:59.139+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:12:59.154+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:59.154+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:12:59.156+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:12:59.195+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.079 seconds
+[2025-03-31T09:13:53.998+0000] {processor.py:186} INFO - Started process (PID=8754) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:13:54.000+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:13:54.006+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:13:54.005+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:13:54.023+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:13:54.023+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:13:54.025+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:13:54.058+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.073 seconds
+[2025-03-31T09:14:25.996+0000] {processor.py:186} INFO - Started process (PID=8778) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:14:25.998+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:14:26.004+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:14:26.003+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:14:26.025+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:14:26.025+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:14:26.027+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:14:26.094+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.124 seconds
+[2025-03-31T09:17:30.182+0000] {processor.py:186} INFO - Started process (PID=8812) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:17:30.184+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:17:30.189+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:17:30.188+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:17:30.206+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:17:30.206+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:17:30.208+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:17:30.241+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.071 seconds
+[2025-03-31T09:18:02.226+0000] {processor.py:186} INFO - Started process (PID=8836) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:18:02.227+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:18:02.232+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:02.231+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:18:02.246+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:02.245+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:18:02.248+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:18:02.283+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.070 seconds
+[2025-03-31T09:18:54.478+0000] {processor.py:186} INFO - Started process (PID=8869) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:18:54.480+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:18:54.484+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:54.483+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:18:54.499+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:54.498+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:18:54.500+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:18:54.529+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.063 seconds
+[2025-03-31T09:19:25.482+0000] {processor.py:186} INFO - Started process (PID=8893) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:19:25.484+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:19:25.488+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:19:25.487+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:19:25.503+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:19:25.503+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:19:25.505+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:19:25.538+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.066 seconds
+[2025-03-31T09:22:33.473+0000] {processor.py:186} INFO - Started process (PID=8927) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:22:33.476+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:22:33.483+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:22:33.482+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:22:33.504+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:22:33.503+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:22:33.506+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:22:33.547+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.091 seconds
+[2025-03-31T09:23:05.378+0000] {processor.py:186} INFO - Started process (PID=8951) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:23:05.379+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:23:05.383+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:05.383+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:23:05.397+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:05.396+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:23:05.398+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:23:05.425+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.059 seconds
+[2025-03-31T09:23:57.214+0000] {processor.py:186} INFO - Started process (PID=8982) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:23:57.216+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:23:57.221+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:57.220+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:23:57.238+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:57.238+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:23:57.240+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:23:57.299+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.099 seconds
+[2025-03-31T09:24:29.758+0000] {processor.py:186} INFO - Started process (PID=9006) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:24:29.760+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:24:29.764+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:24:29.764+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:24:29.778+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:24:29.778+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:24:29.780+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:24:29.808+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.063 seconds
+[2025-03-31T09:27:33.055+0000] {processor.py:186} INFO - Started process (PID=9038) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:27:33.057+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:27:33.063+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:27:33.062+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:27:33.078+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:27:33.078+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:27:33.079+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:27:33.109+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.067 seconds
+[2025-03-31T09:28:05.562+0000] {processor.py:186} INFO - Started process (PID=9062) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:28:05.564+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:28:05.569+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:05.568+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:28:05.583+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:05.583+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:28:05.584+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:28:05.614+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.067 seconds
+[2025-03-31T09:28:58.171+0000] {processor.py:186} INFO - Started process (PID=9093) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:28:58.173+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:28:58.178+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:58.177+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:28:58.193+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:58.192+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:28:58.194+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:28:58.225+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.062 seconds
+[2025-03-31T09:29:29.156+0000] {processor.py:186} INFO - Started process (PID=9117) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:29:29.158+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:29:29.163+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:29:29.162+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:29:29.177+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:29:29.176+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:29:29.178+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:29:29.207+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.063 seconds
+[2025-03-31T09:32:32.724+0000] {processor.py:186} INFO - Started process (PID=9149) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:32:32.726+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:32:32.730+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:32:32.729+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:32:32.743+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:32:32.743+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:32:32.745+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:32:32.773+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.061 seconds
+[2025-03-31T09:33:06.068+0000] {processor.py:186} INFO - Started process (PID=9173) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:33:06.070+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:33:06.075+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:06.074+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:33:06.090+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:06.089+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:33:06.091+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:33:06.120+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.066 seconds
+[2025-03-31T09:33:59.023+0000] {processor.py:186} INFO - Started process (PID=9205) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:33:59.025+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:33:59.029+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:59.028+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:33:59.044+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:59.043+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:33:59.046+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:33:59.081+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.069 seconds
+[2025-03-31T09:34:30.436+0000] {processor.py:186} INFO - Started process (PID=9229) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:34:30.437+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:34:30.443+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:34:30.442+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:34:30.460+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:34:30.459+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:34:30.462+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:34:30.496+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.074 seconds
+[2025-03-31T09:37:41.063+0000] {processor.py:186} INFO - Started process (PID=9262) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:37:41.065+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:37:41.070+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:37:41.069+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:37:41.085+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:37:41.084+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:37:41.086+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:37:41.115+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.064 seconds
+[2025-03-31T09:38:13.202+0000] {processor.py:186} INFO - Started process (PID=9286) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:38:13.204+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:38:13.209+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:38:13.208+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:38:13.225+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:38:13.224+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:38:13.226+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:38:13.258+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.064 seconds
+[2025-03-31T09:39:06.975+0000] {processor.py:186} INFO - Started process (PID=9312) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:39:06.977+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:39:06.982+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:06.981+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:39:06.996+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:06.996+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:39:06.998+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:39:07.036+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.074 seconds
+[2025-03-31T09:39:37.926+0000] {processor.py:186} INFO - Started process (PID=9336) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:39:37.928+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:39:37.933+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:37.933+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:39:37.951+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:37.951+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:39:37.953+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:39:37.988+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.076 seconds
+[2025-03-31T09:42:43.729+0000] {processor.py:186} INFO - Started process (PID=9363) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:42:43.731+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:42:43.735+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:42:43.734+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:42:43.753+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:42:43.752+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:42:43.754+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:42:43.790+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.072 seconds
+[2025-03-31T09:43:14.330+0000] {processor.py:186} INFO - Started process (PID=9387) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:43:14.332+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:43:14.337+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:43:14.336+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:43:14.353+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:43:14.352+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:43:14.354+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:43:14.384+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.065 seconds
+[2025-03-31T09:44:07.815+0000] {processor.py:186} INFO - Started process (PID=9413) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:44:07.816+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:44:07.822+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:07.821+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:44:07.838+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:07.837+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:44:07.839+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:44:07.869+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.066 seconds
+[2025-03-31T09:44:39.630+0000] {processor.py:186} INFO - Started process (PID=9437) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:44:39.632+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:44:39.637+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:39.636+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:44:39.652+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:39.651+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:44:39.653+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:44:39.683+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.064 seconds
+[2025-03-31T09:47:40.815+0000] {processor.py:186} INFO - Started process (PID=9463) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:47:40.817+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:47:40.823+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:47:40.822+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:47:40.842+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:47:40.841+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:47:40.843+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:47:40.880+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.074 seconds
+[2025-03-31T09:48:13.050+0000] {processor.py:186} INFO - Started process (PID=9487) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:48:13.052+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:48:13.057+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:48:13.056+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:48:13.072+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:48:13.072+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:48:13.074+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:48:13.101+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.061 seconds
+[2025-03-31T09:49:00.072+0000] {processor.py:186} INFO - Started process (PID=9515) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:49:00.075+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:49:00.082+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:00.080+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:49:00.101+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:00.101+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:49:00.103+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:49:00.153+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.120 seconds
+[2025-03-31T09:49:30.918+0000] {processor.py:186} INFO - Started process (PID=9539) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:49:30.919+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:49:30.924+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:30.923+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:49:30.938+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:30.937+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:49:30.939+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:49:30.968+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.061 seconds
+[2025-03-31T09:52:33.618+0000] {processor.py:186} INFO - Started process (PID=9571) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:52:33.620+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:52:33.626+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:52:33.625+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:52:33.642+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:52:33.641+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:52:33.644+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:52:33.678+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.072 seconds
+[2025-03-31T09:53:05.443+0000] {processor.py:186} INFO - Started process (PID=9595) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:53:05.447+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:53:05.454+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:05.453+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:53:05.471+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:05.470+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:53:05.473+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:53:05.521+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.088 seconds
+[2025-03-31T09:53:57.936+0000] {processor.py:186} INFO - Started process (PID=9630) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:53:57.938+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:53:57.947+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:57.946+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:53:57.961+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:57.961+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:53:57.963+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:53:57.995+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.068 seconds
+[2025-03-31T09:54:29.411+0000] {processor.py:186} INFO - Started process (PID=9654) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:54:29.413+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:54:29.417+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:54:29.417+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:54:29.431+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:54:29.431+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:54:29.433+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:54:29.462+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.062 seconds
+[2025-03-31T09:57:36.568+0000] {processor.py:186} INFO - Started process (PID=9689) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:57:36.570+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:57:36.584+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:57:36.583+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:57:36.611+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:57:36.610+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:57:36.614+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:57:36.686+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.142 seconds
+[2025-03-31T09:58:08.087+0000] {processor.py:186} INFO - Started process (PID=9713) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:58:08.089+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:58:08.095+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:08.095+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:58:08.118+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:08.117+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:58:08.121+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:58:08.167+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.099 seconds
+[2025-03-31T09:58:57.875+0000] {processor.py:186} INFO - Started process (PID=9746) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:58:57.877+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:58:57.882+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:57.882+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:58:57.900+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:57.899+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:58:57.901+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:58:57.938+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.077 seconds
+[2025-03-31T09:59:30.841+0000] {processor.py:186} INFO - Started process (PID=9770) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:59:30.844+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T09:59:30.850+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:59:30.849+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:59:30.871+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:59:30.871+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T09:59:30.873+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T09:59:30.922+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.095 seconds
+[2025-03-31T10:02:37.796+0000] {processor.py:186} INFO - Started process (PID=9805) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:02:37.798+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:02:37.804+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:02:37.803+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:02:37.821+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:02:37.820+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:02:37.822+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:02:37.870+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.086 seconds
+[2025-03-31T10:03:09.879+0000] {processor.py:186} INFO - Started process (PID=9829) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:03:09.881+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:03:09.885+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:09.884+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:03:09.898+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:09.898+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:03:09.900+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:03:09.929+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.062 seconds
+[2025-03-31T10:03:59.422+0000] {processor.py:186} INFO - Started process (PID=9862) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:03:59.423+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:03:59.428+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:59.427+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:03:59.441+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:59.441+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:03:59.443+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:03:59.491+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.078 seconds
+[2025-03-31T10:04:32.760+0000] {processor.py:186} INFO - Started process (PID=9886) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:04:32.763+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:04:32.769+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:04:32.768+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:04:32.787+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:04:32.787+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:04:32.789+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:04:32.829+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.088 seconds
+[2025-03-31T10:07:42.571+0000] {processor.py:186} INFO - Started process (PID=9920) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:07:42.573+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:07:42.579+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:07:42.578+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:07:42.595+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:07:42.595+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:07:42.597+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:07:42.625+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.069 seconds
+[2025-03-31T10:08:14.139+0000] {processor.py:186} INFO - Started process (PID=9944) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:08:14.141+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:08:14.146+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:08:14.145+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:08:14.161+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:08:14.160+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:08:14.162+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:08:14.191+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.067 seconds
+[2025-03-31T10:09:00.854+0000] {processor.py:186} INFO - Started process (PID=9973) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:09:00.856+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:09:00.860+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:00.859+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:09:00.877+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:00.877+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:09:00.879+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:09:00.915+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.073 seconds
+[2025-03-31T10:09:33.293+0000] {processor.py:186} INFO - Started process (PID=9997) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:09:33.296+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:09:33.300+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:33.300+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:09:33.314+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:33.313+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:09:33.315+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:09:33.344+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.061 seconds
+[2025-03-31T10:12:36.321+0000] {processor.py:186} INFO - Started process (PID=10031) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:12:36.323+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:12:36.327+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:12:36.326+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:12:36.340+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:12:36.339+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:12:36.341+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:12:36.372+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.059 seconds
+[2025-03-31T10:13:08.372+0000] {processor.py:186} INFO - Started process (PID=10055) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:13:08.374+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:13:08.380+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:13:08.379+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:13:08.397+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:13:08.397+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:13:08.399+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:13:08.454+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.098 seconds
+[2025-03-31T10:14:02.020+0000] {processor.py:186} INFO - Started process (PID=10090) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:14:02.021+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:14:02.026+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:02.025+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:14:02.043+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:02.042+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:14:02.044+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:14:02.087+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.079 seconds
+[2025-03-31T10:14:33.275+0000] {processor.py:186} INFO - Started process (PID=10114) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:14:33.278+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:14:33.287+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:33.286+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:14:33.301+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:33.301+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:14:33.303+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:14:33.343+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.080 seconds
+[2025-03-31T10:17:43.284+0000] {processor.py:186} INFO - Started process (PID=10148) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:17:43.286+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:17:43.291+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:17:43.290+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:17:43.309+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:17:43.308+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:17:43.310+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:17:43.341+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.072 seconds
+[2025-03-31T10:18:16.295+0000] {processor.py:186} INFO - Started process (PID=10172) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:18:16.296+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:18:16.301+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:18:16.300+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:18:16.314+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:18:16.314+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:18:16.316+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:18:16.345+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.062 seconds
+[2025-03-31T10:19:04.183+0000] {processor.py:186} INFO - Started process (PID=10201) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:19:04.185+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:19:04.189+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:04.188+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:19:04.203+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:04.202+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:19:04.205+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:19:04.234+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.063 seconds
+[2025-03-31T10:19:35.143+0000] {processor.py:186} INFO - Started process (PID=10225) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:19:35.144+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:19:35.149+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:35.148+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:19:35.163+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:35.163+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:19:35.165+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:19:35.194+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.065 seconds
+[2025-03-31T10:43:34.074+0000] {processor.py:186} INFO - Started process (PID=10260) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:43:34.078+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:43:34.084+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:43:34.083+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:43:34.119+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:43:34.119+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:43:34.121+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:43:34.176+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.131 seconds
+[2025-03-31T10:44:05.282+0000] {processor.py:186} INFO - Started process (PID=10284) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:44:05.283+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:44:05.289+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:44:05.288+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:44:05.305+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:44:05.304+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:44:05.306+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:44:05.339+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.074 seconds
+[2025-03-31T10:45:02.812+0000] {processor.py:186} INFO - Started process (PID=10312) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:45:02.815+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T10:45:02.826+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:45:02.825+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:45:02.849+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:45:02.849+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T10:45:02.852+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T10:45:02.904+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.117 seconds
+[2025-03-31T11:03:43.395+0000] {processor.py:186} INFO - Started process (PID=10366) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T11:03:43.399+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T11:03:43.411+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:03:43.410+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T11:03:43.499+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:03:43.499+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T11:03:43.502+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T11:03:43.584+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.227 seconds
+[2025-03-31T11:17:13.547+0000] {processor.py:186} INFO - Started process (PID=10382) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T11:17:13.549+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T11:17:13.556+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:17:13.555+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T11:17:13.576+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:17:13.576+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T11:17:13.578+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T11:17:13.612+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.076 seconds
+[2025-03-31T11:18:53.091+0000] {processor.py:186} INFO - Started process (PID=10412) to work on /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T11:18:53.093+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/sqlformat.exe for tasks to queue
+[2025-03-31T11:18:53.101+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:18:53.100+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T11:18:53.122+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:18:53.122+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/sqlformat.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-31T11:18:53.124+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/sqlformat.exe
+[2025-03-31T11:18:53.198+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/sqlformat.exe took 0.133 seconds

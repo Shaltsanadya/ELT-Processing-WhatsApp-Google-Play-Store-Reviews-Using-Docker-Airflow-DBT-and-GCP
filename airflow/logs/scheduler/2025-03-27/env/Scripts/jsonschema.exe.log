@@ -1,0 +1,54 @@
+[2025-03-27T07:18:27.940+0000] {processor.py:186} INFO - Started process (PID=642) to work on /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T07:18:27.941+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/jsonschema.exe for tasks to queue
+[2025-03-27T07:18:27.945+0000] {logging_mixin.py:190} INFO - [2025-03-27T07:18:27.944+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T07:18:27.961+0000] {logging_mixin.py:190} INFO - [2025-03-27T07:18:27.960+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/jsonschema.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T07:18:27.962+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T07:18:27.998+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/jsonschema.exe took 0.073 seconds
+[2025-03-27T17:02:29.225+0000] {processor.py:186} INFO - Started process (PID=676) to work on /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:02:29.227+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/jsonschema.exe for tasks to queue
+[2025-03-27T17:02:29.231+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:02:29.230+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:02:29.247+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:02:29.246+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/jsonschema.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:02:29.248+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:02:29.273+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/jsonschema.exe took 0.057 seconds
+[2025-03-27T17:18:12.339+0000] {processor.py:186} INFO - Started process (PID=715) to work on /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:18:12.341+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/jsonschema.exe for tasks to queue
+[2025-03-27T17:18:12.348+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:12.348+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:18:12.366+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:12.366+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/jsonschema.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:18:12.368+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:18:12.407+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/jsonschema.exe took 0.082 seconds
+[2025-03-27T17:33:18.736+0000] {processor.py:186} INFO - Started process (PID=749) to work on /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:33:18.738+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/jsonschema.exe for tasks to queue
+[2025-03-27T17:33:18.740+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:18.739+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:33:18.758+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:18.757+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/jsonschema.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:33:18.759+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:33:18.795+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/jsonschema.exe took 0.066 seconds
+[2025-03-27T17:33:50.044+0000] {processor.py:186} INFO - Started process (PID=773) to work on /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:33:50.046+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/jsonschema.exe for tasks to queue
+[2025-03-27T17:33:50.049+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:50.048+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:33:50.076+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:50.076+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/jsonschema.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:33:50.078+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:33:50.116+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/jsonschema.exe took 0.085 seconds
+[2025-03-27T17:34:21.099+0000] {processor.py:186} INFO - Started process (PID=797) to work on /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:34:21.101+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/jsonschema.exe for tasks to queue
+[2025-03-27T17:34:21.105+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:21.104+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:34:21.136+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:21.135+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/jsonschema.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:34:21.138+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:34:21.203+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/jsonschema.exe took 0.113 seconds
+[2025-03-27T17:38:40.212+0000] {processor.py:186} INFO - Started process (PID=815) to work on /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:38:40.213+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/jsonschema.exe for tasks to queue
+[2025-03-27T17:38:40.216+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:40.215+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:38:40.230+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:40.229+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/jsonschema.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:38:40.231+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:38:40.262+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/jsonschema.exe took 0.064 seconds
+[2025-03-27T17:39:22.117+0000] {processor.py:186} INFO - Started process (PID=849) to work on /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:39:22.118+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/jsonschema.exe for tasks to queue
+[2025-03-27T17:39:22.122+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:39:22.121+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:39:22.146+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:39:22.145+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/jsonschema.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:39:22.147+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:39:22.188+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/jsonschema.exe took 0.081 seconds
+[2025-03-27T17:44:27.895+0000] {processor.py:186} INFO - Started process (PID=867) to work on /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:44:27.896+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/jsonschema.exe for tasks to queue
+[2025-03-27T17:44:27.899+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:44:27.898+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:44:27.917+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:44:27.917+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/jsonschema.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:44:27.918+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/jsonschema.exe
+[2025-03-27T17:44:27.939+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/jsonschema.exe took 0.053 seconds

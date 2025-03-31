@@ -1,0 +1,39 @@
+[2025-03-31T07:41:53.790+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-31T07:41:53.847+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ELT_google_playstore_review.datamarts manual__2025-03-31T07:32:00.293495+00:00 [queued]>
+[2025-03-31T07:41:53.874+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ELT_google_playstore_review.datamarts manual__2025-03-31T07:32:00.293495+00:00 [queued]>
+[2025-03-31T07:41:53.875+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 4
+[2025-03-31T07:41:53.943+0000] {taskinstance.py:2890} INFO - Executing <Task(BashOperator): datamarts> on 2025-03-31 07:32:00.293495+00:00
+[2025-03-31T07:41:53.981+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ELT_google_playstore_review', 'datamarts', 'manual__2025-03-31T07:32:00.293495+00:00', '--job-id', '62', '--raw', '--subdir', 'DAGS_FOLDER/bigquery.py', '--cfg-path', '/tmp/tmp1pyzn85p']
+[2025-03-31T07:41:53.998+0000] {standard_task_runner.py:105} INFO - Job 62: Subtask datamarts
+[2025-03-31T07:41:54.011+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=7825) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-03-31T07:41:54.013+0000] {standard_task_runner.py:72} INFO - Started process 7841 to run task
+[2025-03-31T07:41:54.269+0000] {task_command.py:467} INFO - Running <TaskInstance: ELT_google_playstore_review.datamarts manual__2025-03-31T07:32:00.293495+00:00 [running]> on host bcc3d85ef1af
+[2025-03-31T07:41:54.552+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ELT_google_playstore_review' AIRFLOW_CTX_TASK_ID='datamarts' AIRFLOW_CTX_EXECUTION_DATE='2025-03-31T07:32:00.293495+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-31T07:32:00.293495+00:00'
+[2025-03-31T07:41:54.555+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-31T07:41:54.577+0000] {subprocess.py:78} INFO - Tmp dir root location: /tmp
+[2025-03-31T07:41:54.579+0000] {subprocess.py:88} INFO - Running command: ['/usr/bin/bash', '-c', 'dbt run --select datamart --profiles-dir /opt/airflow/dags --project-dir /opt/airflow/dags']
+[2025-03-31T07:41:54.593+0000] {subprocess.py:99} INFO - Output:
+[2025-03-31T07:41:58.795+0000] {subprocess.py:106} INFO - [0m07:41:58  Running with dbt=1.9.3
+[2025-03-31T07:42:01.001+0000] {subprocess.py:106} INFO - [0m07:42:01  Registered adapter: bigquery=1.9.1
+[2025-03-31T07:42:01.666+0000] {subprocess.py:106} INFO - [0m07:42:01  [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+[2025-03-31T07:42:01.667+0000] {subprocess.py:106} INFO - There are 2 unused configuration paths:
+[2025-03-31T07:42:01.668+0000] {subprocess.py:106} INFO - - models.marts
+[2025-03-31T07:42:01.668+0000] {subprocess.py:106} INFO - - models.staging
+[2025-03-31T07:42:01.961+0000] {subprocess.py:106} INFO - [0m07:42:01  Found 4 models, 3 data tests, 491 macros
+[2025-03-31T07:42:01.966+0000] {subprocess.py:106} INFO - [0m07:42:01
+[2025-03-31T07:42:01.967+0000] {subprocess.py:106} INFO - [0m07:42:01  Concurrency: 4 threads (target='dev')
+[2025-03-31T07:42:01.969+0000] {subprocess.py:106} INFO - [0m07:42:01
+[2025-03-31T07:42:18.688+0000] {subprocess.py:106} INFO - [0m07:42:18  1 of 1 START sql incremental model review_google_playstore.datamart ............ [RUN]
+[2025-03-31T07:42:23.701+0000] {subprocess.py:106} INFO - [0m07:42:23  1 of 1 OK created sql incremental model review_google_playstore.datamart ....... [[32mMERGE (0.0 rows, 68.9 KiB processed)[0m in 4.99s]
+[2025-03-31T07:42:23.989+0000] {subprocess.py:106} INFO - [0m07:42:23
+[2025-03-31T07:42:23.991+0000] {subprocess.py:106} INFO - [0m07:42:23  Finished running 1 incremental model in 0 hours 0 minutes and 22.02 seconds (22.02s).
+[2025-03-31T07:42:24.467+0000] {subprocess.py:106} INFO - [0m07:42:24
+[2025-03-31T07:42:24.476+0000] {subprocess.py:106} INFO - [0m07:42:24  [32mCompleted successfully[0m
+[2025-03-31T07:42:24.478+0000] {subprocess.py:106} INFO - [0m07:42:24
+[2025-03-31T07:42:24.480+0000] {subprocess.py:106} INFO - [0m07:42:24  Done. PASS=1 WARN=0 ERROR=0 SKIP=0 TOTAL=1
+[2025-03-31T07:42:27.790+0000] {subprocess.py:110} INFO - Command exited with return code 0
+[2025-03-31T07:42:27.880+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-31T07:42:27.881+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=ELT_google_playstore_review, task_id=datamarts, run_id=manual__2025-03-31T07:32:00.293495+00:00, execution_date=20250331T073200, start_date=20250331T074153, end_date=20250331T074227
+[2025-03-31T07:42:28.044+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-31T07:42:28.158+0000] {taskinstance.py:3901} INFO - 3 downstream tasks scheduled from follow-on schedule check
+[2025-03-31T07:42:28.178+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

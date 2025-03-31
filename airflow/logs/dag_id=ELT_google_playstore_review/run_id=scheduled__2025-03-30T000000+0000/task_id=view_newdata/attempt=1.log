@@ -1,0 +1,39 @@
+[2025-03-31T07:44:30.194+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-31T07:44:30.303+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ELT_google_playstore_review.view_newdata scheduled__2025-03-30T00:00:00+00:00 [queued]>
+[2025-03-31T07:44:30.349+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ELT_google_playstore_review.view_newdata scheduled__2025-03-30T00:00:00+00:00 [queued]>
+[2025-03-31T07:44:30.350+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 4
+[2025-03-31T07:44:30.441+0000] {taskinstance.py:2890} INFO - Executing <Task(BashOperator): view_newdata> on 2025-03-30 00:00:00+00:00
+[2025-03-31T07:44:30.478+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ELT_google_playstore_review', 'view_newdata', 'scheduled__2025-03-30T00:00:00+00:00', '--job-id', '64', '--raw', '--subdir', 'DAGS_FOLDER/bigquery.py', '--cfg-path', '/tmp/tmpmnxlqj2a']
+[2025-03-31T07:44:30.503+0000] {standard_task_runner.py:105} INFO - Job 64: Subtask view_newdata
+[2025-03-31T07:44:30.494+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=7877) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-03-31T07:44:30.517+0000] {standard_task_runner.py:72} INFO - Started process 7883 to run task
+[2025-03-31T07:44:30.789+0000] {task_command.py:467} INFO - Running <TaskInstance: ELT_google_playstore_review.view_newdata scheduled__2025-03-30T00:00:00+00:00 [running]> on host bcc3d85ef1af
+[2025-03-31T07:44:31.334+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ELT_google_playstore_review' AIRFLOW_CTX_TASK_ID='view_newdata' AIRFLOW_CTX_EXECUTION_DATE='2025-03-30T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-03-30T00:00:00+00:00'
+[2025-03-31T07:44:31.337+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-31T07:44:31.448+0000] {subprocess.py:78} INFO - Tmp dir root location: /tmp
+[2025-03-31T07:44:31.460+0000] {subprocess.py:88} INFO - Running command: ['/usr/bin/bash', '-c', 'dbt run --select view_newdata --profiles-dir /opt/airflow/dags --project-dir /opt/airflow/dags']
+[2025-03-31T07:44:31.503+0000] {subprocess.py:99} INFO - Output:
+[2025-03-31T07:44:45.053+0000] {subprocess.py:106} INFO - [0m07:44:45  Running with dbt=1.9.3
+[2025-03-31T07:44:51.377+0000] {subprocess.py:106} INFO - [0m07:44:51  Registered adapter: bigquery=1.9.1
+[2025-03-31T07:44:53.418+0000] {subprocess.py:106} INFO - [0m07:44:53  [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+[2025-03-31T07:44:53.419+0000] {subprocess.py:106} INFO - There are 2 unused configuration paths:
+[2025-03-31T07:44:53.420+0000] {subprocess.py:106} INFO - - models.staging
+[2025-03-31T07:44:53.421+0000] {subprocess.py:106} INFO - - models.marts
+[2025-03-31T07:44:54.215+0000] {subprocess.py:106} INFO - [0m07:44:54  Found 4 models, 3 data tests, 491 macros
+[2025-03-31T07:44:54.237+0000] {subprocess.py:106} INFO - [0m07:44:54
+[2025-03-31T07:44:54.239+0000] {subprocess.py:106} INFO - [0m07:44:54  Concurrency: 4 threads (target='dev')
+[2025-03-31T07:44:54.240+0000] {subprocess.py:106} INFO - [0m07:44:54
+[2025-03-31T07:45:20.841+0000] {subprocess.py:106} INFO - [0m07:45:20  1 of 1 START sql view model review_google_playstore.view_newdata ............... [RUN]
+[2025-03-31T07:45:23.275+0000] {subprocess.py:106} INFO - [0m07:45:23  1 of 1 OK created sql view model review_google_playstore.view_newdata .......... [[32mCREATE VIEW (0 processed)[0m in 2.41s]
+[2025-03-31T07:45:23.491+0000] {subprocess.py:106} INFO - [0m07:45:23
+[2025-03-31T07:45:23.501+0000] {subprocess.py:106} INFO - [0m07:45:23  Finished running 1 view model in 0 hours 0 minutes and 29.25 seconds (29.25s).
+[2025-03-31T07:45:24.095+0000] {subprocess.py:106} INFO - [0m07:45:24
+[2025-03-31T07:45:24.099+0000] {subprocess.py:106} INFO - [0m07:45:24  [32mCompleted successfully[0m
+[2025-03-31T07:45:24.109+0000] {subprocess.py:106} INFO - [0m07:45:24
+[2025-03-31T07:45:24.112+0000] {subprocess.py:106} INFO - [0m07:45:24  Done. PASS=1 WARN=0 ERROR=0 SKIP=0 TOTAL=1
+[2025-03-31T07:45:26.885+0000] {subprocess.py:110} INFO - Command exited with return code 0
+[2025-03-31T07:45:27.007+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-31T07:45:27.009+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=ELT_google_playstore_review, task_id=view_newdata, run_id=scheduled__2025-03-30T00:00:00+00:00, execution_date=20250330T000000, start_date=20250331T074430, end_date=20250331T074527
+[2025-03-31T07:45:27.248+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-31T07:45:27.317+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-31T07:45:27.321+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

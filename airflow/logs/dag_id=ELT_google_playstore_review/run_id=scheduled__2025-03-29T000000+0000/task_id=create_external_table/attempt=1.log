@@ -1,0 +1,19 @@
+[2025-03-30T00:59:19.872+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-30T00:59:19.899+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ELT_google_playstore_review.create_external_table scheduled__2025-03-29T00:00:00+00:00 [queued]>
+[2025-03-30T00:59:19.917+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ELT_google_playstore_review.create_external_table scheduled__2025-03-29T00:00:00+00:00 [queued]>
+[2025-03-30T00:59:19.920+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 4
+[2025-03-30T00:59:19.967+0000] {taskinstance.py:2890} INFO - Executing <Task(BigQueryCreateExternalTableOperator): create_external_table> on 2025-03-29 00:00:00+00:00
+[2025-03-30T00:59:19.978+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ELT_google_playstore_review', 'create_external_table', 'scheduled__2025-03-29T00:00:00+00:00', '--job-id', '38', '--raw', '--subdir', 'DAGS_FOLDER/bigquery.py', '--cfg-path', '/tmp/tmpf2zv4oiu']
+[2025-03-30T00:59:19.982+0000] {standard_task_runner.py:105} INFO - Job 38: Subtask create_external_table
+[2025-03-30T00:59:19.992+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=1184) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-03-30T00:59:19.993+0000] {standard_task_runner.py:72} INFO - Started process 1190 to run task
+[2025-03-30T00:59:20.086+0000] {task_command.py:467} INFO - Running <TaskInstance: ELT_google_playstore_review.create_external_table scheduled__2025-03-29T00:00:00+00:00 [running]> on host 13bb3a5fb0e8
+[2025-03-30T00:59:20.243+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ELT_google_playstore_review' AIRFLOW_CTX_TASK_ID='create_external_table' AIRFLOW_CTX_EXECUTION_DATE='2025-03-29T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-03-29T00:00:00+00:00'
+[2025-03-30T00:59:20.245+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-30T00:59:20.289+0000] {connection.py:277} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2025-03-30T00:59:20.293+0000] {base.py:84} INFO - Retrieving connection 'google_cloud_default'
+[2025-03-30T00:59:21.768+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-30T00:59:21.769+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=ELT_google_playstore_review, task_id=create_external_table, run_id=scheduled__2025-03-29T00:00:00+00:00, execution_date=20250329T000000, start_date=20250330T005919, end_date=20250330T005921
+[2025-03-30T00:59:21.859+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-30T00:59:21.907+0000] {taskinstance.py:3901} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-03-30T00:59:21.919+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

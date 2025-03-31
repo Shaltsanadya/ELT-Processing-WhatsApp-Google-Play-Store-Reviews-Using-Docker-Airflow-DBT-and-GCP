@@ -1,0 +1,42 @@
+[2025-03-27T08:46:46.394+0000] {processor.py:186} INFO - Started process (PID=664) to work on /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T08:46:46.397+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/slugify.exe for tasks to queue
+[2025-03-27T08:46:46.401+0000] {logging_mixin.py:190} INFO - [2025-03-27T08:46:46.400+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T08:46:46.423+0000] {logging_mixin.py:190} INFO - [2025-03-27T08:46:46.422+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/slugify.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T08:46:46.425+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T08:46:46.458+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/slugify.exe took 0.080 seconds
+[2025-03-27T17:13:36.807+0000] {processor.py:186} INFO - Started process (PID=699) to work on /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:13:36.809+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/slugify.exe for tasks to queue
+[2025-03-27T17:13:36.823+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:13:36.823+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:13:36.847+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:13:36.846+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/slugify.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:13:36.849+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:13:36.893+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/slugify.exe took 0.124 seconds
+[2025-03-27T17:18:27.325+0000] {processor.py:186} INFO - Started process (PID=729) to work on /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:18:27.327+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/slugify.exe for tasks to queue
+[2025-03-27T17:18:27.331+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:27.331+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:18:27.346+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:27.345+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/slugify.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:18:27.347+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:18:27.376+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/slugify.exe took 0.063 seconds
+[2025-03-27T17:33:36.030+0000] {processor.py:186} INFO - Started process (PID=763) to work on /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:33:36.033+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/slugify.exe for tasks to queue
+[2025-03-27T17:33:36.035+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:36.034+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:33:36.056+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:36.056+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/slugify.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:33:36.058+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:33:36.103+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/slugify.exe took 0.083 seconds
+[2025-03-27T17:34:07.485+0000] {processor.py:186} INFO - Started process (PID=787) to work on /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:34:07.487+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/slugify.exe for tasks to queue
+[2025-03-27T17:34:07.489+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:07.489+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:34:07.510+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:07.510+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/slugify.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:34:07.512+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:34:07.578+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/slugify.exe took 0.105 seconds
+[2025-03-27T17:38:57.715+0000] {processor.py:186} INFO - Started process (PID=832) to work on /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:38:57.717+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/slugify.exe for tasks to queue
+[2025-03-27T17:38:57.721+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:57.720+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:38:57.740+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:57.740+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/slugify.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:38:57.742+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:38:57.778+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/slugify.exe took 0.077 seconds
+[2025-03-27T17:44:22.619+0000] {processor.py:186} INFO - Started process (PID=863) to work on /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:44:22.621+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/slugify.exe for tasks to queue
+[2025-03-27T17:44:22.623+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:44:22.623+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:44:22.640+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:44:22.639+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/slugify.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:44:22.641+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/slugify.exe
+[2025-03-27T17:44:22.666+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/slugify.exe took 0.055 seconds

@@ -1,0 +1,54 @@
+[2025-03-27T08:26:47.393+0000] {processor.py:186} INFO - Started process (PID=656) to work on /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T08:26:47.396+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/f2py.exe for tasks to queue
+[2025-03-27T08:26:47.405+0000] {logging_mixin.py:190} INFO - [2025-03-27T08:26:47.405+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T08:26:47.429+0000] {logging_mixin.py:190} INFO - [2025-03-27T08:26:47.429+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/f2py.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T08:26:47.431+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T08:26:47.480+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/f2py.exe took 0.112 seconds
+[2025-03-27T17:13:33.199+0000] {processor.py:186} INFO - Started process (PID=696) to work on /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:13:33.206+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/f2py.exe for tasks to queue
+[2025-03-27T17:13:33.210+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:13:33.210+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:13:33.224+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:13:33.224+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/f2py.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:13:33.226+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:13:33.254+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/f2py.exe took 0.068 seconds
+[2025-03-27T17:18:23.483+0000] {processor.py:186} INFO - Started process (PID=726) to work on /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:18:23.485+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/f2py.exe for tasks to queue
+[2025-03-27T17:18:23.494+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:23.493+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:18:23.516+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:23.515+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/f2py.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:18:23.517+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:18:23.562+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/f2py.exe took 0.095 seconds
+[2025-03-27T17:33:32.119+0000] {processor.py:186} INFO - Started process (PID=760) to work on /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:33:32.120+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/f2py.exe for tasks to queue
+[2025-03-27T17:33:32.122+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:32.121+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:33:32.137+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:32.136+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/f2py.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:33:32.138+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:33:32.160+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/f2py.exe took 0.050 seconds
+[2025-03-27T17:34:03.465+0000] {processor.py:186} INFO - Started process (PID=784) to work on /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:34:03.467+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/f2py.exe for tasks to queue
+[2025-03-27T17:34:03.469+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:03.469+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:34:03.485+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:03.485+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/f2py.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:34:03.487+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:34:03.509+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/f2py.exe took 0.051 seconds
+[2025-03-27T17:34:34.322+0000] {processor.py:186} INFO - Started process (PID=808) to work on /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:34:34.324+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/f2py.exe for tasks to queue
+[2025-03-27T17:34:34.326+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:34.326+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:34:34.338+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:34.337+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/f2py.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:34:34.339+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:34:34.360+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/f2py.exe took 0.045 seconds
+[2025-03-27T17:38:55.457+0000] {processor.py:186} INFO - Started process (PID=826) to work on /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:38:55.459+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/f2py.exe for tasks to queue
+[2025-03-27T17:38:55.463+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:55.462+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:38:55.483+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:55.482+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/f2py.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:38:55.484+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:38:55.535+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/f2py.exe took 0.097 seconds
+[2025-03-27T17:39:34.111+0000] {processor.py:186} INFO - Started process (PID=861) to work on /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:39:34.113+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/f2py.exe for tasks to queue
+[2025-03-27T17:39:34.115+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:39:34.115+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:39:34.129+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:39:34.129+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/f2py.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:39:34.131+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:39:34.159+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/f2py.exe took 0.056 seconds
+[2025-03-27T17:49:31.349+0000] {processor.py:186} INFO - Started process (PID=879) to work on /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:49:31.351+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/f2py.exe for tasks to queue
+[2025-03-27T17:49:31.353+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:49:31.353+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:49:31.368+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:49:31.367+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/f2py.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:49:31.369+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/f2py.exe
+[2025-03-27T17:49:31.424+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/f2py.exe took 0.097 seconds

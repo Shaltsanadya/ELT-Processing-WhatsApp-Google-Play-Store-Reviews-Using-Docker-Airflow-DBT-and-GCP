@@ -1,0 +1,17 @@
+version: '3' 
+
+services:
+  container:  
+    image: container:latest 
+    volumes:
+      - ./airflow:/opt/airflow
+    ports:
+      - "9090:8080"
+    command: airflow standalone
+
+
+
+
+
+
+

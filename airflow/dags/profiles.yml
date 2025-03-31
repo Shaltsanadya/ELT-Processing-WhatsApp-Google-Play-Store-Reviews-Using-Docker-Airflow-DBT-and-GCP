@@ -1,0 +1,68 @@
+dbt_core:
+  outputs:
+    dev:
+      dataset: review_google_playstore
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      keyfile: C:/Users/user/Documents/NewProject/pipeline/airflow/dags/core-sprite-407216-e97256ea7324.json
+      location: US
+      method: service-account
+      priority: interactive
+      project: core-sprite-407216
+      threads: 2
+      type: bigquery
+  target: dev
+dags:
+  outputs:
+    dev:
+      dataset: review_google_playstore
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      keyfile: /opt/airflow/dags/core-sprite-407216-e97256ea7324.json
+      location: US
+      method: service-account
+      priority: interactive
+      project: core-sprite-407216
+      threads: 4
+      type: bigquery
+  target: dev
+dbt_project:
+  outputs:
+    dev:
+      dataset: review_google_playstore
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      keyfile: C:/Users/user/Documents/NewProject/pipeline/airflow/dags/core-sprite-407216-e97256ea7324.json
+      location: US
+      method: service-account
+      priority: interactive
+      project: core-sprite-407216
+      threads: 2
+      type: bigquery
+  target: dev
+example:
+  outputs:
+    dev:
+      dataset: coffee_shop
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      location: US
+      method: oauth
+      priority: interactive
+      project: core-sprite-407216
+      threads: 1
+      type: bigquery
+  target: dev
+latihan:
+  outputs:
+    dev:
+      dataset: customer_churn
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      location: US
+      method: oauth
+      priority: interactive
+      project: core-sprite-407216
+      threads: 1
+      type: bigquery
+  target: dev

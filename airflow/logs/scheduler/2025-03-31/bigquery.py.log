@@ -1,0 +1,959 @@
+[2025-03-31T07:27:08.612+0000] {processor.py:186} INFO - Started process (PID=7674) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T07:27:08.614+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T07:27:08.619+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:27:08.619+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:27:08.664+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:27:08.728+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:27:08.728+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T07:27:08.787+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:27:08.786+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T07:27:08.872+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.273 seconds
+[2025-03-31T07:27:39.839+0000] {processor.py:186} INFO - Started process (PID=7705) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T07:27:39.841+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T07:27:39.854+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:27:39.853+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:27:39.914+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:27:40.023+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:27:40.023+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T07:27:40.098+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:27:40.098+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T07:27:40.220+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.396 seconds
+[2025-03-31T07:28:10.940+0000] {processor.py:186} INFO - Started process (PID=7729) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T07:28:10.941+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T07:28:10.946+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:28:10.945+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:28:10.980+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:28:11.027+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:28:11.026+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T07:28:11.066+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:28:11.066+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T07:28:11.136+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.206 seconds
+[2025-03-31T07:33:13.606+0000] {processor.py:186} INFO - Started process (PID=7732) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T07:33:13.608+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T07:33:13.627+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:33:13.626+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:33:13.749+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:33:13.914+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:33:13.913+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T07:33:14.054+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:33:14.054+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T07:33:14.210+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.641 seconds
+[2025-03-31T07:33:25.079+0000] {processor.py:186} INFO - Started process (PID=7735) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T07:33:25.082+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T07:33:25.098+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:33:25.096+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:33:26.026+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:33:26.156+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:33:26.155+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T07:33:26.301+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:33:26.301+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T07:33:26.436+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 1.391 seconds
+[2025-03-31T07:41:17.406+0000] {processor.py:186} INFO - Started process (PID=7787) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T07:41:17.409+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T07:41:17.415+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:41:17.414+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:41:17.461+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:41:17.549+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:41:17.549+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T07:41:17.668+0000] {processor.py:186} INFO - Started process (PID=7788) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T07:41:17.671+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T07:41:17.680+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:41:17.678+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:41:17.701+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:41:17.700+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T07:41:17.753+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:41:17.834+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:41:17.833+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T07:41:17.895+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:41:17.895+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T07:41:18.008+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.360 seconds
+[2025-03-31T07:41:18.206+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.813 seconds
+[2025-03-31T07:56:59.219+0000] {processor.py:186} INFO - Started process (PID=7999) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T07:56:59.232+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T07:56:59.247+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:56:59.246+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:56:59.393+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T07:56:59.577+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:56:59.576+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T07:56:59.734+0000] {logging_mixin.py:190} INFO - [2025-03-31T07:56:59.733+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T07:56:59.890+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.697 seconds
+[2025-03-31T08:02:22.607+0000] {processor.py:186} INFO - Started process (PID=8026) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:02:22.609+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:02:22.624+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:02:22.623+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:02:22.744+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:02:22.939+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:02:22.939+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:02:23.100+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:02:23.099+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:02:23.245+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.679 seconds
+[2025-03-31T08:09:54.216+0000] {processor.py:186} INFO - Started process (PID=8029) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:09:54.219+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:09:54.231+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:09:54.229+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:09:54.310+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:09:54.392+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:09:54.391+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:09:54.474+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:09:54.472+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:09:54.590+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.398 seconds
+[2025-03-31T08:42:47.667+0000] {processor.py:186} INFO - Started process (PID=8057) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:42:47.671+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:42:47.675+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:42:47.675+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:42:47.717+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:42:47.775+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:42:47.775+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:42:47.823+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:42:47.823+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:42:47.902+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.246 seconds
+[2025-03-31T08:43:54.871+0000] {processor.py:186} INFO - Started process (PID=8097) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:43:54.873+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:43:54.880+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:43:54.879+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:43:54.921+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:43:54.974+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:43:54.974+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:43:55.020+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:43:55.020+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:43:55.100+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.236 seconds
+[2025-03-31T08:44:25.403+0000] {processor.py:186} INFO - Started process (PID=8120) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:44:25.406+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:44:25.412+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:44:25.411+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:44:25.468+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:44:25.541+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:44:25.540+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:44:25.610+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:44:25.610+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:44:25.692+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.298 seconds
+[2025-03-31T08:47:07.687+0000] {processor.py:186} INFO - Started process (PID=8135) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:47:07.690+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:47:07.696+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:47:07.695+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:47:07.755+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:47:07.823+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:47:07.822+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:47:07.882+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:47:07.882+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:47:07.976+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.313 seconds
+[2025-03-31T08:47:38.371+0000] {processor.py:186} INFO - Started process (PID=8159) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:47:38.374+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:47:38.380+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:47:38.379+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:47:38.453+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:47:38.511+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:47:38.511+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:47:38.556+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:47:38.555+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:47:38.627+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.277 seconds
+[2025-03-31T08:48:09.322+0000] {processor.py:186} INFO - Started process (PID=8183) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:48:09.324+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:48:09.333+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:09.332+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:48:09.398+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:48:09.504+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:09.504+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:48:09.592+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:09.592+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:48:09.686+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.374 seconds
+[2025-03-31T08:48:31.106+0000] {processor.py:186} INFO - Started process (PID=8189) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:48:31.108+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:48:31.112+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:31.112+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:48:31.159+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:48:31.250+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:31.250+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:48:31.312+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:48:31.312+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:48:31.467+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.373 seconds
+[2025-03-31T08:49:02.133+0000] {processor.py:186} INFO - Started process (PID=8213) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:49:02.134+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:49:02.138+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:49:02.138+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:49:02.183+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:49:02.255+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:49:02.255+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:49:02.309+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:49:02.309+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:49:02.412+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.287 seconds
+[2025-03-31T08:49:32.958+0000] {processor.py:186} INFO - Started process (PID=8238) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:49:32.960+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:49:32.967+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:49:32.964+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:49:33.016+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:49:33.113+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:49:33.112+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:49:33.196+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:49:33.195+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:49:33.324+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.374 seconds
+[2025-03-31T08:52:06.825+0000] {processor.py:186} INFO - Started process (PID=8247) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:52:06.827+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:52:06.831+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:52:06.831+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:52:06.882+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:52:06.948+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:52:06.947+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:52:07.004+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:52:07.004+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:52:07.090+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.280 seconds
+[2025-03-31T08:52:37.616+0000] {processor.py:186} INFO - Started process (PID=8271) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:52:37.618+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:52:37.623+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:52:37.622+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:52:37.672+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:52:37.731+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:52:37.730+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:52:37.780+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:52:37.779+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:52:37.863+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.259 seconds
+[2025-03-31T08:53:10.120+0000] {processor.py:186} INFO - Started process (PID=8295) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:53:10.122+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:53:10.128+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:10.127+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:53:10.173+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:53:10.234+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:10.234+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:53:10.291+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:10.290+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:53:10.715+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.602 seconds
+[2025-03-31T08:53:36.109+0000] {processor.py:186} INFO - Started process (PID=8301) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:53:36.111+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:53:36.115+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:36.115+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:53:36.156+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:53:36.219+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:36.219+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:53:36.297+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:53:36.296+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:53:36.407+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.309 seconds
+[2025-03-31T08:54:07.152+0000] {processor.py:186} INFO - Started process (PID=8325) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:54:07.154+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:54:07.161+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:54:07.159+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:54:07.210+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:54:07.278+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:54:07.277+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:54:07.331+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:54:07.331+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:54:07.412+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.268 seconds
+[2025-03-31T08:54:38.100+0000] {processor.py:186} INFO - Started process (PID=8349) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:54:38.102+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:54:38.106+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:54:38.106+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:54:38.156+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:54:38.225+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:54:38.225+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:54:38.292+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:54:38.292+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:54:38.388+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.302 seconds
+[2025-03-31T08:57:03.895+0000] {processor.py:186} INFO - Started process (PID=8354) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:57:03.896+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:57:03.901+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:03.901+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:57:03.940+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:57:03.991+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:03.991+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:57:04.038+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:04.038+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:57:04.134+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.249 seconds
+[2025-03-31T08:57:34.783+0000] {processor.py:186} INFO - Started process (PID=8378) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:57:34.785+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:57:34.789+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:34.788+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:57:34.831+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:57:34.884+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:34.884+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:57:34.935+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:57:34.934+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:57:35.017+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.243 seconds
+[2025-03-31T08:58:05.726+0000] {processor.py:186} INFO - Started process (PID=8402) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:58:05.728+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:58:05.733+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:58:05.732+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:58:05.774+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:58:05.828+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:58:05.827+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:58:05.876+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:58:05.876+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:58:05.959+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.241 seconds
+[2025-03-31T08:58:29.467+0000] {processor.py:186} INFO - Started process (PID=8413) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:58:29.469+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:58:29.479+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:58:29.477+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:58:29.542+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:58:29.618+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:58:29.617+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:58:29.676+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:58:29.675+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:58:29.771+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.328 seconds
+[2025-03-31T08:59:00.587+0000] {processor.py:186} INFO - Started process (PID=8437) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:59:00.589+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:59:00.594+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:59:00.593+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:59:00.633+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:59:00.692+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:59:00.692+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:59:00.740+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:59:00.739+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:59:00.856+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.281 seconds
+[2025-03-31T08:59:31.464+0000] {processor.py:186} INFO - Started process (PID=8460) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T08:59:31.466+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T08:59:31.470+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:59:31.469+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:59:31.522+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T08:59:31.587+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:59:31.586+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T08:59:31.684+0000] {logging_mixin.py:190} INFO - [2025-03-31T08:59:31.683+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T08:59:31.843+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.392 seconds
+[2025-03-31T09:02:10.457+0000] {processor.py:186} INFO - Started process (PID=8471) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:02:10.459+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:02:10.465+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:02:10.464+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:02:10.517+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:02:10.633+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:02:10.633+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:02:10.739+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:02:10.738+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:02:10.869+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.420 seconds
+[2025-03-31T09:02:41.994+0000] {processor.py:186} INFO - Started process (PID=8495) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:02:42.000+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:02:42.006+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:02:42.005+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:02:42.097+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:02:42.216+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:02:42.215+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:02:42.297+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:02:42.296+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:02:42.375+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.390 seconds
+[2025-03-31T09:03:12.693+0000] {processor.py:186} INFO - Started process (PID=8518) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:03:12.695+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:03:12.701+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:03:12.700+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:03:12.756+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:03:12.842+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:03:12.841+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:03:12.926+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:03:12.926+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:03:13.037+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.353 seconds
+[2025-03-31T09:03:44.834+0000] {processor.py:186} INFO - Started process (PID=8525) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:03:44.835+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:03:44.840+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:03:44.840+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:03:44.888+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:03:44.948+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:03:44.948+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:03:44.998+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:03:44.998+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:03:45.075+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.249 seconds
+[2025-03-31T09:04:16.459+0000] {processor.py:186} INFO - Started process (PID=8549) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:04:16.461+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:04:16.465+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:04:16.464+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:04:16.525+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:04:16.607+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:04:16.607+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:04:16.681+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:04:16.680+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:04:16.782+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.335 seconds
+[2025-03-31T09:07:12.686+0000] {processor.py:186} INFO - Started process (PID=8574) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:07:12.688+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:07:12.694+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:07:12.693+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:07:12.762+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:07:12.869+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:07:12.868+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:07:13.011+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:07:13.011+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:07:13.489+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.825 seconds
+[2025-03-31T09:07:44.682+0000] {processor.py:186} INFO - Started process (PID=8598) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:07:44.694+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:07:44.711+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:07:44.710+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:07:44.820+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:07:44.898+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:07:44.898+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:07:44.955+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:07:44.955+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:07:45.044+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.382 seconds
+[2025-03-31T09:08:15.548+0000] {processor.py:186} INFO - Started process (PID=8622) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:08:15.550+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:08:15.556+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:08:15.555+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:08:15.607+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:08:15.678+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:08:15.677+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:08:15.739+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:08:15.739+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:08:15.837+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.304 seconds
+[2025-03-31T09:08:38.201+0000] {processor.py:186} INFO - Started process (PID=8625) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:08:38.203+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:08:38.207+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:08:38.206+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:08:38.246+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:08:38.300+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:08:38.299+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:08:38.350+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:08:38.350+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:08:38.426+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.236 seconds
+[2025-03-31T09:09:09.318+0000] {processor.py:186} INFO - Started process (PID=8649) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:09:09.320+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:09:09.325+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:09.325+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:09:09.376+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:09:09.441+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:09.440+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:09:09.502+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:09.502+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:09:09.594+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.289 seconds
+[2025-03-31T09:09:40.144+0000] {processor.py:186} INFO - Started process (PID=8672) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:09:40.146+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:09:40.151+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:40.150+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:09:40.191+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:09:40.246+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:40.245+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:09:40.293+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:09:40.293+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:09:40.371+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.239 seconds
+[2025-03-31T09:12:06.265+0000] {processor.py:186} INFO - Started process (PID=8678) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:12:06.266+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:12:06.271+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:06.270+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:12:06.310+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:12:06.363+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:06.363+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:12:06.411+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:06.410+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:12:06.488+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.234 seconds
+[2025-03-31T09:12:37.193+0000] {processor.py:186} INFO - Started process (PID=8702) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:12:37.195+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:12:37.201+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:37.200+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:12:37.247+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:12:37.308+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:37.308+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:12:37.361+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:12:37.360+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:12:37.441+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.256 seconds
+[2025-03-31T09:13:08.097+0000] {processor.py:186} INFO - Started process (PID=8726) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:13:08.099+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:13:08.106+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:13:08.104+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:13:08.155+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:13:08.233+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:13:08.232+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:13:08.306+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:13:08.306+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:13:08.396+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.308 seconds
+[2025-03-31T09:13:32.410+0000] {processor.py:186} INFO - Started process (PID=8736) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:13:32.412+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:13:32.418+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:13:32.417+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:13:32.471+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:13:32.612+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:13:32.612+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:13:32.732+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:13:32.731+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:13:32.854+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.452 seconds
+[2025-03-31T09:14:03.148+0000] {processor.py:186} INFO - Started process (PID=8760) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:14:03.150+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:14:03.158+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:14:03.157+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:14:03.222+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:14:03.304+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:14:03.304+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:14:03.363+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:14:03.362+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:14:03.450+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.312 seconds
+[2025-03-31T09:14:34.172+0000] {processor.py:186} INFO - Started process (PID=8784) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:14:34.175+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:14:34.182+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:14:34.182+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:14:34.252+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:14:34.317+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:14:34.317+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:14:34.385+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:14:34.385+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:14:34.502+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.352 seconds
+[2025-03-31T09:17:09.949+0000] {processor.py:186} INFO - Started process (PID=8795) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:17:09.951+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:17:09.955+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:17:09.954+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:17:09.994+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:17:10.046+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:17:10.046+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:17:10.094+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:17:10.093+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:17:10.174+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.235 seconds
+[2025-03-31T09:17:40.510+0000] {processor.py:186} INFO - Started process (PID=8819) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:17:40.511+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:17:40.516+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:17:40.515+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:17:40.557+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:17:40.609+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:17:40.608+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:17:40.656+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:17:40.656+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:17:40.738+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.238 seconds
+[2025-03-31T09:18:11.022+0000] {processor.py:186} INFO - Started process (PID=8843) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:18:11.023+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:18:11.028+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:11.027+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:18:11.071+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:18:11.130+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:11.129+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:18:11.176+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:11.176+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:18:11.257+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.243 seconds
+[2025-03-31T09:18:31.848+0000] {processor.py:186} INFO - Started process (PID=8851) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:18:31.849+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:18:31.854+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:31.853+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:18:31.896+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:18:31.953+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:31.953+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:18:32.007+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:18:32.006+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:18:32.098+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.260 seconds
+[2025-03-31T09:19:02.497+0000] {processor.py:186} INFO - Started process (PID=8875) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:19:02.499+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:19:02.503+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:19:02.502+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:19:02.546+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:19:02.597+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:19:02.597+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:19:02.645+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:19:02.645+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:19:02.731+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.246 seconds
+[2025-03-31T09:19:33.712+0000] {processor.py:186} INFO - Started process (PID=8898) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:19:33.714+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:19:33.719+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:19:33.718+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:19:33.764+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:19:33.823+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:19:33.822+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:19:33.891+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:19:33.890+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:19:34.024+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.324 seconds
+[2025-03-31T09:22:10.613+0000] {processor.py:186} INFO - Started process (PID=8909) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:22:10.615+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:22:10.620+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:22:10.619+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:22:10.673+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:22:10.734+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:22:10.733+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:22:10.801+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:22:10.801+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:22:10.901+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.303 seconds
+[2025-03-31T09:22:41.712+0000] {processor.py:186} INFO - Started process (PID=8933) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:22:41.714+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:22:41.719+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:22:41.718+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:22:41.759+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:22:41.814+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:22:41.813+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:22:41.861+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:22:41.860+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:22:41.952+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.252 seconds
+[2025-03-31T09:23:12.594+0000] {processor.py:186} INFO - Started process (PID=8957) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:23:12.596+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:23:12.601+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:12.600+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:23:12.655+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:23:12.712+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:12.712+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:23:12.813+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:12.813+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:23:12.920+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.338 seconds
+[2025-03-31T09:23:37.428+0000] {processor.py:186} INFO - Started process (PID=8965) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:23:37.430+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:23:37.435+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:37.434+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:23:37.477+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:23:37.540+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:37.539+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:23:37.588+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:23:37.588+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:23:37.666+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.246 seconds
+[2025-03-31T09:24:08.085+0000] {processor.py:186} INFO - Started process (PID=8989) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:24:08.087+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:24:08.094+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:24:08.093+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:24:08.157+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:24:08.235+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:24:08.234+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:24:08.294+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:24:08.293+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:24:08.375+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.298 seconds
+[2025-03-31T09:24:39.196+0000] {processor.py:186} INFO - Started process (PID=9013) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:24:39.198+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:24:39.203+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:24:39.202+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:24:39.250+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:24:39.307+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:24:39.306+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:24:39.357+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:24:39.357+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:24:39.446+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.258 seconds
+[2025-03-31T09:27:12.153+0000] {processor.py:186} INFO - Started process (PID=9020) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:27:12.155+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:27:12.160+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:27:12.160+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:27:12.203+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:27:12.269+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:27:12.269+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:27:12.368+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:27:12.368+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:27:12.483+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.344 seconds
+[2025-03-31T09:27:43.137+0000] {processor.py:186} INFO - Started process (PID=9044) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:27:43.139+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:27:43.143+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:27:43.142+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:27:43.184+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:27:43.249+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:27:43.248+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:27:43.327+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:27:43.326+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:27:43.433+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.306 seconds
+[2025-03-31T09:28:13.941+0000] {processor.py:186} INFO - Started process (PID=9068) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:28:13.943+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:28:13.950+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:13.949+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:28:14.003+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:28:14.089+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:14.088+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:28:14.152+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:14.152+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:28:14.275+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.343 seconds
+[2025-03-31T09:28:35.787+0000] {processor.py:186} INFO - Started process (PID=9075) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:28:35.789+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:28:35.793+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:35.792+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:28:35.832+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:28:35.887+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:35.886+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:28:35.935+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:28:35.934+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:28:36.021+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.245 seconds
+[2025-03-31T09:29:06.397+0000] {processor.py:186} INFO - Started process (PID=9099) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:29:06.399+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:29:06.403+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:29:06.402+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:29:06.444+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:29:06.504+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:29:06.503+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:29:06.563+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:29:06.562+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:29:06.642+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.255 seconds
+[2025-03-31T09:29:37.263+0000] {processor.py:186} INFO - Started process (PID=9123) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:29:37.265+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:29:37.269+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:29:37.268+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:29:37.308+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:29:37.361+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:29:37.360+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:29:37.411+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:29:37.411+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:29:37.494+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.241 seconds
+[2025-03-31T09:32:11.743+0000] {processor.py:186} INFO - Started process (PID=9131) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:32:11.745+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:32:11.749+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:32:11.749+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:32:11.800+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:32:11.884+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:32:11.884+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:32:11.972+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:32:11.971+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:32:12.080+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.348 seconds
+[2025-03-31T09:32:42.695+0000] {processor.py:186} INFO - Started process (PID=9155) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:32:42.697+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:32:42.704+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:32:42.703+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:32:42.763+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:32:42.832+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:32:42.831+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:32:42.891+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:32:42.891+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:32:42.988+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.309 seconds
+[2025-03-31T09:33:13.460+0000] {processor.py:186} INFO - Started process (PID=9179) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:33:13.464+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:33:13.502+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:13.501+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:33:13.628+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:33:13.794+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:13.794+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:33:13.878+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:13.877+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:33:13.975+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.538 seconds
+[2025-03-31T09:33:35.189+0000] {processor.py:186} INFO - Started process (PID=9187) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:33:35.191+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:33:35.197+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:35.196+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:33:35.252+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:33:35.345+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:35.345+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:33:35.436+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:33:35.435+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:33:35.582+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.407 seconds
+[2025-03-31T09:34:06.495+0000] {processor.py:186} INFO - Started process (PID=9211) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:34:06.496+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:34:06.501+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:34:06.500+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:34:06.540+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:34:06.594+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:34:06.593+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:34:06.642+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:34:06.641+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:34:06.721+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.237 seconds
+[2025-03-31T09:34:37.250+0000] {processor.py:186} INFO - Started process (PID=9234) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:34:37.252+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:34:37.258+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:34:37.257+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:34:37.303+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:34:37.373+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:34:37.372+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:34:37.421+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:34:37.420+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:34:37.505+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.263 seconds
+[2025-03-31T09:37:19.955+0000] {processor.py:186} INFO - Started process (PID=9244) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:37:19.957+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:37:19.961+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:37:19.960+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:37:20.026+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:37:20.107+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:37:20.106+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:37:20.187+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:37:20.185+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:37:20.290+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.347 seconds
+[2025-03-31T09:37:51.157+0000] {processor.py:186} INFO - Started process (PID=9268) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:37:51.159+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:37:51.165+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:37:51.164+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:37:51.215+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:37:51.283+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:37:51.282+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:37:51.330+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:37:51.330+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:37:51.409+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.267 seconds
+[2025-03-31T09:38:22.042+0000] {processor.py:186} INFO - Started process (PID=9292) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:38:22.044+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:38:22.048+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:38:22.047+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:38:22.089+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:38:22.149+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:38:22.149+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:38:22.216+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:38:22.216+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:38:22.315+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.285 seconds
+[2025-03-31T09:38:44.288+0000] {processor.py:186} INFO - Started process (PID=9294) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:38:44.289+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:38:44.295+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:38:44.294+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:38:44.335+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:38:44.387+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:38:44.386+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:38:44.435+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:38:44.435+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:38:44.553+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.277 seconds
+[2025-03-31T09:39:14.922+0000] {processor.py:186} INFO - Started process (PID=9318) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:39:14.924+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:39:14.929+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:14.928+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:39:14.978+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:39:15.044+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:15.042+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:39:15.119+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:15.118+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:39:15.227+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.319 seconds
+[2025-03-31T09:39:45.905+0000] {processor.py:186} INFO - Started process (PID=9342) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:39:45.907+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:39:45.912+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:45.911+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:39:45.977+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:39:46.066+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:46.065+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:39:46.145+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:39:46.144+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:39:46.248+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.352 seconds
+[2025-03-31T09:42:19.794+0000] {processor.py:186} INFO - Started process (PID=9345) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:42:19.796+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:42:19.802+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:42:19.801+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:42:19.850+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:42:20.279+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:42:20.278+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:42:20.326+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:42:20.325+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:42:20.402+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.615 seconds
+[2025-03-31T09:42:51.489+0000] {processor.py:186} INFO - Started process (PID=9369) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:42:51.491+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:42:51.495+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:42:51.494+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:42:51.832+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:42:51.901+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:42:51.900+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:42:51.970+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:42:51.969+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:42:52.074+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.595 seconds
+[2025-03-31T09:43:23.070+0000] {processor.py:186} INFO - Started process (PID=9393) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:43:23.072+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:43:23.078+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:43:23.077+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:43:23.168+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:43:23.309+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:43:23.309+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:43:23.442+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:43:23.442+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:43:23.609+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.566 seconds
+[2025-03-31T09:43:46.393+0000] {processor.py:186} INFO - Started process (PID=9395) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:43:46.395+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:43:46.400+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:43:46.399+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:43:46.440+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:43:46.495+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:43:46.495+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:43:46.543+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:43:46.542+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:43:46.625+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.242 seconds
+[2025-03-31T09:44:17.161+0000] {processor.py:186} INFO - Started process (PID=9419) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:44:17.163+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:44:17.167+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:17.167+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:44:17.214+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:44:17.268+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:17.268+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:44:17.316+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:17.315+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:44:17.395+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.242 seconds
+[2025-03-31T09:44:48.087+0000] {processor.py:186} INFO - Started process (PID=9443) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:44:48.089+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:44:48.095+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:48.094+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:44:48.146+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:44:48.228+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:48.228+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:44:48.300+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:44:48.299+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:44:48.408+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.334 seconds
+[2025-03-31T09:47:19.839+0000] {processor.py:186} INFO - Started process (PID=9445) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:47:19.841+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:47:19.846+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:47:19.846+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:47:19.891+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:47:19.945+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:47:19.945+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:47:19.993+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:47:19.993+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:47:20.097+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.271 seconds
+[2025-03-31T09:47:50.470+0000] {processor.py:186} INFO - Started process (PID=9469) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:47:50.472+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:47:50.479+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:47:50.478+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:47:50.531+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:47:50.595+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:47:50.594+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:47:50.641+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:47:50.640+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:47:50.717+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.255 seconds
+[2025-03-31T09:48:21.443+0000] {processor.py:186} INFO - Started process (PID=9493) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:48:21.445+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:48:21.452+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:48:21.451+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:48:21.515+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:48:21.578+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:48:21.577+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:48:21.654+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:48:21.653+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:48:21.759+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.329 seconds
+[2025-03-31T09:48:39.220+0000] {processor.py:186} INFO - Started process (PID=9497) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:48:39.221+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:48:39.226+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:48:39.225+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:48:39.267+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:48:39.331+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:48:39.330+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:48:39.381+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:48:39.381+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:48:39.458+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.248 seconds
+[2025-03-31T09:49:10.111+0000] {processor.py:186} INFO - Started process (PID=9521) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:49:10.113+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:49:10.118+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:10.117+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:49:10.155+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:49:10.207+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:10.207+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:49:10.252+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:10.252+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:49:10.330+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.231 seconds
+[2025-03-31T09:49:40.931+0000] {processor.py:186} INFO - Started process (PID=9545) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:49:40.933+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:49:40.938+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:40.937+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:49:40.983+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:49:41.041+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:41.040+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:49:41.092+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:49:41.092+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:49:41.199+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.282 seconds
+[2025-03-31T09:52:11.013+0000] {processor.py:186} INFO - Started process (PID=9553) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:52:11.015+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:52:11.022+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:52:11.021+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:52:11.077+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:52:11.161+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:52:11.160+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:52:11.226+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:52:11.225+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:52:11.374+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.375 seconds
+[2025-03-31T09:52:41.510+0000] {processor.py:186} INFO - Started process (PID=9577) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:52:41.511+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:52:41.516+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:52:41.515+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:52:41.560+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:52:41.621+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:52:41.621+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:52:41.673+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:52:41.672+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:52:41.757+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.255 seconds
+[2025-03-31T09:53:12.768+0000] {processor.py:186} INFO - Started process (PID=9601) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:53:12.770+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:53:12.774+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:12.774+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:53:12.837+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:53:12.898+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:12.897+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:53:12.976+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:12.975+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:53:13.081+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.328 seconds
+[2025-03-31T09:53:36.312+0000] {processor.py:186} INFO - Started process (PID=9612) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:53:36.314+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:53:36.326+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:36.325+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:53:36.404+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:53:36.525+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:36.524+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:53:36.613+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:53:36.612+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:53:36.704+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.403 seconds
+[2025-03-31T09:54:07.241+0000] {processor.py:186} INFO - Started process (PID=9636) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:54:07.247+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:54:07.257+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:54:07.257+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:54:07.326+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:54:07.439+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:54:07.437+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:54:07.504+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:54:07.503+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:54:07.582+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.353 seconds
+[2025-03-31T09:54:38.140+0000] {processor.py:186} INFO - Started process (PID=9660) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:54:38.142+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:54:38.147+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:54:38.147+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:54:38.198+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:54:38.272+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:54:38.272+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:54:38.325+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:54:38.325+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:54:38.401+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.273 seconds
+[2025-03-31T09:57:14.582+0000] {processor.py:186} INFO - Started process (PID=9671) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:57:14.584+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:57:14.590+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:57:14.589+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:57:14.650+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:57:14.733+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:57:14.732+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:57:14.830+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:57:14.829+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:57:14.950+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.377 seconds
+[2025-03-31T09:57:45.532+0000] {processor.py:186} INFO - Started process (PID=9695) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:57:45.534+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:57:45.539+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:57:45.538+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:57:45.590+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:57:45.659+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:57:45.658+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:57:45.722+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:57:45.722+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:57:45.831+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.315 seconds
+[2025-03-31T09:58:16.528+0000] {processor.py:186} INFO - Started process (PID=9719) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:58:16.530+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:58:16.535+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:16.534+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:58:16.591+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:58:16.660+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:16.659+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:58:16.729+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:16.729+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:58:16.821+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.306 seconds
+[2025-03-31T09:58:36.361+0000] {processor.py:186} INFO - Started process (PID=9728) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:58:36.363+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:58:36.367+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:36.367+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:58:36.409+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:58:36.505+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:36.504+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:58:36.596+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:58:36.596+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:58:36.726+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.374 seconds
+[2025-03-31T09:59:07.302+0000] {processor.py:186} INFO - Started process (PID=9752) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:59:07.304+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:59:07.310+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:59:07.309+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:59:07.357+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:59:07.415+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:59:07.414+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:59:07.462+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:59:07.462+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:59:07.539+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.248 seconds
+[2025-03-31T09:59:38.229+0000] {processor.py:186} INFO - Started process (PID=9776) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T09:59:38.231+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T09:59:38.238+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:59:38.237+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:59:38.288+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T09:59:38.358+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:59:38.358+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T09:59:38.438+0000] {logging_mixin.py:190} INFO - [2025-03-31T09:59:38.438+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T09:59:38.528+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.313 seconds
+[2025-03-31T10:02:15.423+0000] {processor.py:186} INFO - Started process (PID=9787) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:02:15.425+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:02:15.431+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:02:15.430+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:02:15.475+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:02:15.531+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:02:15.530+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:02:15.593+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:02:15.593+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:02:15.671+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.261 seconds
+[2025-03-31T10:02:46.371+0000] {processor.py:186} INFO - Started process (PID=9811) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:02:46.373+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:02:46.379+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:02:46.378+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:02:46.428+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:02:46.499+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:02:46.498+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:02:46.556+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:02:46.556+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:02:46.645+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.290 seconds
+[2025-03-31T10:03:17.228+0000] {processor.py:186} INFO - Started process (PID=9835) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:03:17.229+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:03:17.235+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:17.234+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:03:17.285+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:03:17.356+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:17.356+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:03:17.415+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:17.415+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:03:17.505+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.289 seconds
+[2025-03-31T10:03:38.590+0000] {processor.py:186} INFO - Started process (PID=9844) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:03:38.591+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:03:38.596+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:38.595+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:03:38.637+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:03:38.690+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:38.689+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:03:38.739+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:03:38.739+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:03:38.817+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.235 seconds
+[2025-03-31T10:04:09.432+0000] {processor.py:186} INFO - Started process (PID=9868) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:04:09.434+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:04:09.439+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:04:09.438+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:04:09.484+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:04:09.546+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:04:09.546+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:04:09.595+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:04:09.595+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:04:09.678+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.253 seconds
+[2025-03-31T10:04:40.527+0000] {processor.py:186} INFO - Started process (PID=9892) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:04:40.529+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:04:40.534+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:04:40.533+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:04:40.587+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:04:40.656+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:04:40.656+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:04:40.717+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:04:40.717+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:04:40.814+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.297 seconds
+[2025-03-31T10:07:20.949+0000] {processor.py:186} INFO - Started process (PID=9902) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:07:20.951+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:07:20.956+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:07:20.955+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:07:20.998+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:07:21.103+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:07:21.101+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:07:21.169+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:07:21.169+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:07:21.280+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.338 seconds
+[2025-03-31T10:07:51.772+0000] {processor.py:186} INFO - Started process (PID=9926) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:07:51.774+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:07:51.780+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:07:51.779+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:07:51.848+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:07:51.924+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:07:51.923+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:07:51.993+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:07:51.992+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:07:52.095+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.333 seconds
+[2025-03-31T10:08:22.770+0000] {processor.py:186} INFO - Started process (PID=9950) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:08:22.773+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:08:22.779+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:08:22.778+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:08:22.846+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:08:22.945+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:08:22.940+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:08:22.995+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:08:22.995+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:08:23.086+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.327 seconds
+[2025-03-31T10:08:39.436+0000] {processor.py:186} INFO - Started process (PID=9955) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:08:39.438+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:08:39.444+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:08:39.443+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:08:39.488+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:08:39.547+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:08:39.546+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:08:39.600+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:08:39.599+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:08:39.680+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.252 seconds
+[2025-03-31T10:09:10.046+0000] {processor.py:186} INFO - Started process (PID=9979) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:09:10.048+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:09:10.052+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:10.051+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:09:10.092+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:09:10.145+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:10.145+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:09:10.191+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:10.191+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:09:10.272+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.237 seconds
+[2025-03-31T10:09:40.644+0000] {processor.py:186} INFO - Started process (PID=10003) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:09:40.645+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:09:40.650+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:40.649+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:09:40.696+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:09:40.749+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:40.749+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:09:40.794+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:09:40.794+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:09:40.877+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.242 seconds
+[2025-03-31T10:12:14.869+0000] {processor.py:186} INFO - Started process (PID=10013) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:12:14.870+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:12:14.875+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:12:14.874+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:12:14.918+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:12:14.971+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:12:14.970+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:12:15.019+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:12:15.018+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:12:15.095+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.237 seconds
+[2025-03-31T10:12:45.408+0000] {processor.py:186} INFO - Started process (PID=10037) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:12:45.411+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:12:45.416+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:12:45.415+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:12:45.456+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:12:45.512+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:12:45.512+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:12:45.560+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:12:45.559+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:12:45.665+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.267 seconds
+[2025-03-31T10:13:16.379+0000] {processor.py:186} INFO - Started process (PID=10061) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:13:16.381+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:13:16.387+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:13:16.386+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:13:16.429+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:13:16.485+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:13:16.484+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:13:16.531+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:13:16.531+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:13:16.611+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.246 seconds
+[2025-03-31T10:13:40.050+0000] {processor.py:186} INFO - Started process (PID=10072) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:13:40.051+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:13:40.056+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:13:40.055+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:13:40.104+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:13:40.179+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:13:40.179+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:13:40.232+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:13:40.232+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:13:40.323+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.281 seconds
+[2025-03-31T10:14:11.038+0000] {processor.py:186} INFO - Started process (PID=10096) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:14:11.039+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:14:11.044+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:11.043+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:14:11.083+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:14:11.137+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:11.136+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:14:11.189+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:11.188+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:14:11.266+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.238 seconds
+[2025-03-31T10:14:41.971+0000] {processor.py:186} INFO - Started process (PID=10120) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:14:41.973+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:14:41.978+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:41.977+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:14:42.026+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:14:42.098+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:42.097+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:14:42.152+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:14:42.152+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:14:42.248+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.291 seconds
+[2025-03-31T10:17:22.344+0000] {processor.py:186} INFO - Started process (PID=10130) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:17:22.346+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:17:22.352+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:17:22.351+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:17:22.409+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:17:22.483+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:17:22.483+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:17:22.544+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:17:22.543+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:17:22.650+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.316 seconds
+[2025-03-31T10:17:53.175+0000] {processor.py:186} INFO - Started process (PID=10154) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:17:53.178+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:17:53.189+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:17:53.188+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:17:53.250+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:17:53.327+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:17:53.327+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:17:53.376+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:17:53.376+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:17:53.458+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.311 seconds
+[2025-03-31T10:18:23.844+0000] {processor.py:186} INFO - Started process (PID=10178) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:18:23.846+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:18:23.852+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:18:23.851+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:18:23.908+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:18:23.973+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:18:23.973+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:18:24.035+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:18:24.034+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:18:24.147+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.315 seconds
+[2025-03-31T10:18:42.385+0000] {processor.py:186} INFO - Started process (PID=10183) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:18:42.388+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:18:42.395+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:18:42.394+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:18:42.442+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:18:42.496+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:18:42.495+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:18:42.543+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:18:42.543+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:18:42.624+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.258 seconds
+[2025-03-31T10:19:13.206+0000] {processor.py:186} INFO - Started process (PID=10207) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:19:13.208+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:19:13.213+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:13.212+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:19:13.252+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:19:13.308+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:13.307+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:19:13.355+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:13.354+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:19:13.437+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.242 seconds
+[2025-03-31T10:19:44.163+0000] {processor.py:186} INFO - Started process (PID=10231) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:19:44.165+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:19:44.171+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:44.170+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:19:44.212+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:19:44.265+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:44.264+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:19:44.310+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:19:44.310+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:19:44.398+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.245 seconds
+[2025-03-31T10:39:15.625+0000] {processor.py:186} INFO - Started process (PID=10241) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:39:15.628+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:39:15.638+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:39:15.637+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:39:15.691+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:39:15.778+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:39:15.777+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:39:15.889+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:39:15.888+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:39:16.013+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.405 seconds
+[2025-03-31T10:40:29.868+0000] {processor.py:186} INFO - Started process (PID=10242) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:40:29.870+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:40:29.875+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:40:29.874+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:40:29.918+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:40:29.978+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:40:29.977+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:40:30.028+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:40:30.028+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:40:30.112+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.255 seconds
+[2025-03-31T10:43:42.363+0000] {processor.py:186} INFO - Started process (PID=10266) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:43:42.364+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:43:42.370+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:43:42.369+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:43:42.413+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:43:42.470+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:43:42.469+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:43:42.527+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:43:42.526+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:43:42.617+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.262 seconds
+[2025-03-31T10:44:13.445+0000] {processor.py:186} INFO - Started process (PID=10290) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:44:13.447+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:44:13.452+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:44:13.452+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:44:13.521+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:44:13.577+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:44:13.577+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:44:13.955+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:44:13.954+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:44:14.038+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.606 seconds
+[2025-03-31T10:45:11.105+0000] {processor.py:186} INFO - Started process (PID=10318) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:45:11.107+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:45:11.112+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:45:11.112+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:45:11.170+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:45:11.237+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:45:11.237+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:45:11.291+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:45:11.291+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:45:11.379+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.291 seconds
+[2025-03-31T10:49:49.232+0000] {processor.py:186} INFO - Started process (PID=10334) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:49:49.234+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:49:49.250+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:49:49.249+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:49:49.374+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:49:49.558+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:49:49.557+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:49:49.729+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:49:49.728+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:49:49.922+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.720 seconds
+[2025-03-31T10:51:30.888+0000] {processor.py:186} INFO - Started process (PID=10335) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T10:51:30.900+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T10:51:30.917+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:51:30.916+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:51:31.035+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T10:51:31.223+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:51:31.214+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T10:51:31.371+0000] {logging_mixin.py:190} INFO - [2025-03-31T10:51:31.370+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T10:51:31.553+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.696 seconds
+[2025-03-31T11:08:40.203+0000] {processor.py:186} INFO - Started process (PID=10373) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T11:08:40.206+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T11:08:40.213+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:08:40.212+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T11:08:40.270+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T11:08:40.355+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:08:40.355+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T11:08:40.423+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:08:40.422+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T11:08:40.530+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.345 seconds
+[2025-03-31T11:17:21.156+0000] {processor.py:186} INFO - Started process (PID=10388) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T11:17:21.158+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T11:17:21.164+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:17:21.163+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T11:17:21.224+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T11:17:21.304+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:17:21.304+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T11:17:21.391+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:17:21.391+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T11:17:21.529+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.388 seconds
+[2025-03-31T11:18:56.241+0000] {processor.py:186} INFO - Started process (PID=10414) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T11:18:56.252+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T11:18:56.269+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:18:56.258+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T11:18:56.404+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T11:18:56.584+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:18:56.583+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T11:18:56.744+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:18:56.743+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T11:18:56.936+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.731 seconds
+[2025-03-31T11:44:45.880+0000] {processor.py:186} INFO - Started process (PID=10426) to work on /opt/airflow/dags/bigquery.py
+[2025-03-31T11:44:45.883+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bigquery.py for tasks to queue
+[2025-03-31T11:44:45.889+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:44:45.888+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bigquery.py
+[2025-03-31T11:44:45.933+0000] {processor.py:925} INFO - DAG(s) 'ELT_google_playstore_review' retrieved from /opt/airflow/dags/bigquery.py
+[2025-03-31T11:44:45.999+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:44:45.999+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T11:44:46.054+0000] {logging_mixin.py:190} INFO - [2025-03-31T11:44:46.054+0000] {dag.py:4180} INFO - Setting next_dagrun for ELT_google_playstore_review to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T11:44:46.140+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bigquery.py took 0.281 seconds

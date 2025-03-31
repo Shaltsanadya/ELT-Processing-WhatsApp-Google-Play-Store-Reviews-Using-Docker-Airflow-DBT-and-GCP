@@ -1,0 +1,54 @@
+[2025-03-27T07:24:46.950+0000] {processor.py:186} INFO - Started process (PID=643) to work on /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T07:24:46.954+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/deep.exe for tasks to queue
+[2025-03-27T07:24:46.960+0000] {logging_mixin.py:190} INFO - [2025-03-27T07:24:46.959+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T07:24:46.991+0000] {logging_mixin.py:190} INFO - [2025-03-27T07:24:46.991+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/deep.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T07:24:46.993+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T07:24:47.053+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/deep.exe took 0.120 seconds
+[2025-03-27T17:08:37.618+0000] {processor.py:186} INFO - Started process (PID=684) to work on /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:08:37.620+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/deep.exe for tasks to queue
+[2025-03-27T17:08:37.624+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:08:37.622+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:08:37.640+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:08:37.640+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/deep.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:08:37.641+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:08:37.662+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/deep.exe took 0.051 seconds
+[2025-03-27T17:18:13.066+0000] {processor.py:186} INFO - Started process (PID=716) to work on /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:18:13.068+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/deep.exe for tasks to queue
+[2025-03-27T17:18:13.072+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:13.071+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:18:13.092+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:18:13.091+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/deep.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:18:13.094+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:18:13.133+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/deep.exe took 0.080 seconds
+[2025-03-27T17:33:20.140+0000] {processor.py:186} INFO - Started process (PID=750) to work on /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:33:20.142+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/deep.exe for tasks to queue
+[2025-03-27T17:33:20.160+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:20.159+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:33:20.189+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:20.188+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/deep.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:33:20.191+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:33:20.267+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/deep.exe took 0.142 seconds
+[2025-03-27T17:33:51.438+0000] {processor.py:186} INFO - Started process (PID=774) to work on /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:33:51.440+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/deep.exe for tasks to queue
+[2025-03-27T17:33:51.442+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:51.441+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:33:51.458+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:33:51.458+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/deep.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:33:51.459+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:33:51.489+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/deep.exe took 0.068 seconds
+[2025-03-27T17:34:22.614+0000] {processor.py:186} INFO - Started process (PID=798) to work on /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:34:22.619+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/deep.exe for tasks to queue
+[2025-03-27T17:34:22.622+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:22.621+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:34:22.648+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:34:22.647+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/deep.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:34:22.650+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:34:22.797+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/deep.exe took 0.194 seconds
+[2025-03-27T17:38:41.559+0000] {processor.py:186} INFO - Started process (PID=816) to work on /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:38:41.562+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/deep.exe for tasks to queue
+[2025-03-27T17:38:41.565+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:41.564+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:38:41.585+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:38:41.584+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/deep.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:38:41.586+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:38:41.624+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/deep.exe took 0.079 seconds
+[2025-03-27T17:39:23.037+0000] {processor.py:186} INFO - Started process (PID=850) to work on /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:39:23.038+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/deep.exe for tasks to queue
+[2025-03-27T17:39:23.041+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:39:23.040+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:39:23.054+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:39:23.054+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/deep.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:39:23.055+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:39:23.081+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/deep.exe took 0.054 seconds
+[2025-03-27T17:44:29.177+0000] {processor.py:186} INFO - Started process (PID=868) to work on /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:44:29.178+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/env/Scripts/deep.exe for tasks to queue
+[2025-03-27T17:44:29.184+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:44:29.180+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:44:29.202+0000] {logging_mixin.py:190} INFO - [2025-03-27T17:44:29.202+0000] {dagbag.py:435} INFO - File /opt/airflow/dags/env/Scripts/deep.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-03-27T17:44:29.203+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/env/Scripts/deep.exe
+[2025-03-27T17:44:29.238+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/env/Scripts/deep.exe took 0.069 seconds

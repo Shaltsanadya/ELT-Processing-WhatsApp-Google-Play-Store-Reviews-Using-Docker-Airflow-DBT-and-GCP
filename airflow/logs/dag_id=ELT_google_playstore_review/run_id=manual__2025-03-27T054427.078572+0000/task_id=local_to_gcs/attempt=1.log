@@ -1,0 +1,18 @@
+[2025-03-27T05:44:46.414+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-27T05:44:46.445+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ELT_google_playstore_review.local_to_gcs manual__2025-03-27T05:44:27.078572+00:00 [queued]>
+[2025-03-27T05:44:46.467+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ELT_google_playstore_review.local_to_gcs manual__2025-03-27T05:44:27.078572+00:00 [queued]>
+[2025-03-27T05:44:46.468+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 4
+[2025-03-27T05:44:46.519+0000] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): local_to_gcs> on 2025-03-27 05:44:27.078572+00:00
+[2025-03-27T05:44:46.531+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ELT_google_playstore_review', 'local_to_gcs', 'manual__2025-03-27T05:44:27.078572+00:00', '--job-id', '10', '--raw', '--subdir', 'DAGS_FOLDER/bigquery.py', '--cfg-path', '/tmp/tmp7epxemkl']
+[2025-03-27T05:44:46.535+0000] {standard_task_runner.py:105} INFO - Job 10: Subtask local_to_gcs
+[2025-03-27T05:44:46.552+0000] {logging_mixin.py:190} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=455) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-03-27T05:44:46.554+0000] {standard_task_runner.py:72} INFO - Started process 461 to run task
+[2025-03-27T05:44:46.646+0000] {task_command.py:467} INFO - Running <TaskInstance: ELT_google_playstore_review.local_to_gcs manual__2025-03-27T05:44:27.078572+00:00 [running]> on host 33513e9f1399
+[2025-03-27T05:44:46.810+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ELT_google_playstore_review' AIRFLOW_CTX_TASK_ID='local_to_gcs' AIRFLOW_CTX_EXECUTION_DATE='2025-03-27T05:44:27.078572+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-27T05:44:27.078572+00:00'
+[2025-03-27T05:44:46.812+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-27T05:44:48.350+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-27T05:44:48.393+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-27T05:44:48.394+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=ELT_google_playstore_review, task_id=local_to_gcs, run_id=manual__2025-03-27T05:44:27.078572+00:00, execution_date=20250327T054427, start_date=20250327T054446, end_date=20250327T054448
+[2025-03-27T05:44:48.539+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-27T05:44:48.571+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-27T05:44:48.573+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
